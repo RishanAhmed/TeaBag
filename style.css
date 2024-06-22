@@ -51,6 +51,11 @@ body{
     margin-top: 5px;
     margin-left: 15px;
 }
+.stroreaccess{
+    display: none;
+    color: white;
+    text-decoration: none;
+}
 
 @media (max-width:585px) {
     .re{
