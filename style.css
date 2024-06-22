@@ -61,4 +61,7 @@ body{
     .re{
         display: block;
     }
+    .ONE-SECTION{
+        margin-bottom: 15px;
+    }
 }
